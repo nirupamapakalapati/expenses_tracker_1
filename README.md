@@ -1,2 +1,20 @@
-# expenses_tracker_1
-A simple and responsive Expense Tracker web application built using HTML, CSS, JavaScript and Bootstrap. It allows users to track income and expenses with category support and local storage functionality.
+💰 Expense Tracker App
+The Expense Tracker is a simple and user-friendly web application that helps users manage their income and expenses efficiently.
+🚀 Features
+👤 User login with name
+➕ Add Income and Expense transactions
+🏷 Expense categories (Medical, Shopping, Food, Savings, Electricity, Others)
+🗑 Delete transactions
+📊 Automatic calculation of:
+Total Income
+Total Expense
+Balance
+💾 Data stored using Local Storage
+👥 Separate data for each user
+📱 Responsive design using Bootstrap
+🛠 Technologies Used
+HTML5
+CSS3
+JavaScript
+Bootstrap 5
+Local Storage API
